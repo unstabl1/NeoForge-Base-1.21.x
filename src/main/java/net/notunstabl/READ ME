@@ -1,13 +1,14 @@
 1. When cloning this repository, refractor multiple places
     a) In ExampleMod, refractor the first line, net.notunstabl.(what you want the mod to be)
-    b) In ExampleMod, refractor "ExampleMod" in line 35 to the mod name, make sure to use upper case
+    b) In ExampleMod, refractor "ExampleMod" to the mod name, make sure to use upper case
        and lower cases correctly, upper case to separate words, lower case for rest of the words.
+    c) In the resources/assets folder, rename the examplemod folder to the same as in step 3. a).
 
 2. This is only an example mod, using textures from the vanilla game and example code to work from.
     Just copy the example lines to start
 
 3.
-    a) Change your MOD_ID value in ExampleMod into a unique name your mod, has to be only lower case. Line 23
+    a) Change your MOD_ID value in ExampleMod into a unique name your mod, has to be only lower case.
     b) Change your mod_id value in gradle.properties to exactly the same as in step b. Line 29
     c) Change your mod_name to a readable name for the player, should be the same as the mod_id
         but in large text and with spaces if necessary. Line 31
@@ -16,3 +17,5 @@
     e) Change mod_description to a fitting description for the mod. Line 43
 
 4. Change your mod_version number for when building a new version of the mod. Line 35
+
+5. Everything that was in the folder "mod" needs to be moved into the folder thats named the same as what you choose in step 1. a).

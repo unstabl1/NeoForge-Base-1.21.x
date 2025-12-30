@@ -1,0 +1,4 @@
+// 1.21	2025-12-30T14:49:26.363151	Tags for minecraft:block mod id examplemod
+0136ba5636c4ecb73827b04facd12752bfea1080 data/minecraft/tags/block/mineable/pickaxe.json
+fe6518e13f10a9145b0d6094a33f90787be0f46d data/minecraft/tags/block/needs_diamond_tool.json
+6e1e8d4695c3ea809bf0d6abc67a9f73b864e84a data/minecraft/tags/block/needs_iron_tool.json

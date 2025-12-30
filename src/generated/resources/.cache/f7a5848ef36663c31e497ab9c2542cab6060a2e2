@@ -1,0 +1,7 @@
+// 1.21	2025-12-30T14:49:26.3590759	Block States: examplemod
+c1179f903b7e75f188bc87b191d646264a7c1c10 assets/examplemod/blockstates/example_block.json
+997d3b6e7147166d92ea532b2f0e497bee5045a6 assets/examplemod/blockstates/example_ore.json
+7c88b8231b94199736a42deb3c7c4afaf43ce8c6 assets/examplemod/models/block/example_block.json
+c79c3b6315c7e5a3ac021f828c65a5e3b3ab1075 assets/examplemod/models/block/example_ore.json
+b3379e282d4a356e9dc8e8007b71d0eac6948db4 assets/examplemod/models/item/example_block.json
+d31c4319f10ebb14abf266a834abab876183976f assets/examplemod/models/item/example_ore.json
